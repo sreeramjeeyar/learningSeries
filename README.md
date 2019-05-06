@@ -1,2 +1,2 @@
 # learningSeries
-A repo to contain all the projects categorized by programming language
+This repo contains all the projects categorized by programming languages.
